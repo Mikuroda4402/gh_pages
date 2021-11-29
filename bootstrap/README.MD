@@ -27,4 +27,14 @@
    1. 導覽列 (Navbar) https://getbootstrap.com/docs/5.1/components/navbar/
    2. 清單 (list group) https://getbootstrap.com/docs/5.1/components/list-group/
    3. 下拉選單 (dropdown menu) https://getbootstrap.com/docs/5.1/components/dropdowns/
-   4. 把下拉選單加進導覽列 
+   4. 把下拉選單加進導覽列 https://getbootstrap.com/docs/5.1/components/navbar/#supported-content
+   5. 分頁 (Tabs) https://getbootstrap.com/docs/5.1/components/navs-tabs/#tabs
+   6. 分頁下拉 (Tabs with dropdowns) https://getbootstrap.com/docs/5.1/components/navs-tabs/#tabs-with-dropdowns
+   7. 提示/警告 (alert) https://getbootstrap.com/docs/5.1/components/alerts/
+   8. 在提示/緊告裡使用圖示 https://getbootstrap.com/docs/5.1/components/alerts/#icons
+   9. 按鈕 (Buttons) https://getbootstrap.com/docs/5.1/components/buttons/
+   10. 按鈕群 (Button group) https://getbootstrap.com/docs/5.1/components/button-group/
+   11. 卡片 (Card) https://getbootstrap.com/docs/5.1/components/card/
+   12. 彈出訊息框 (Modal) https://getbootstrap.com/docs/5.1/components/modal/
+   13. 隱藏/顯示訊息 (Collapse) https://getbootstrap.com/docs/5.1/components/collapse/
+   14. 圖片輪播 (Carousel) https://getbootstrap.com/docs/5.1/components/carousel/
