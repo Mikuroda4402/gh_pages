@@ -16,14 +16,15 @@
    1. 撰寫基礎架構
    2. 引入 bootstrap
    3. 引入 bootstrap icon
-5. 版型 (Layout)
+5. 如何使用 icon
+6. 版型 (Layout)
    1. 版型斷點 (Breakpoint)
       1. 介紹 xs, sm, md, lg, xl, xxl
    2. 容器 (Container)
       1. 帶著寫
    3. 網格 (Grid)
       1. 帶著寫
-6. 零件/組件 (Component)
+7. 零件/組件 (Component)
    1. 導覽列 (Navbar) https://getbootstrap.com/docs/5.1/components/navbar/
    2. 清單 (list group) https://getbootstrap.com/docs/5.1/components/list-group/
    3. 下拉選單 (dropdown menu) https://getbootstrap.com/docs/5.1/components/dropdowns/
